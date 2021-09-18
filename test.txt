@@ -3,3 +3,5 @@
 test-soft reset 1
 
 test-soft reset 2
+
+test-soft reset 3
