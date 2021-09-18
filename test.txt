@@ -1,3 +1,5 @@
 # test-revert
 
 test-soft reset 1
+
+test-soft reset 2
